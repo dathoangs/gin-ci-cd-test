@@ -12,7 +12,7 @@ A small project to experiment with **Go**, **Gin**, and **GitHub Actions** for a
 
 ### Prerequisites
 
-- Go installed (v1.20+ recommended)  
+- Go installed (v1.25.4+ recommended)  
 - Git  
 - Docker (optional, for building the image locally)
 
@@ -34,7 +34,5 @@ Visit http://localhost:8080 to see it in action.
 ### Experimentation
 
 - Testing GitHub Actions workflows
-
 - Auto-building Docker images
-
 - Learning deployment basics
